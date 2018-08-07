@@ -1,5 +1,5 @@
-#Erste ReadMe
+# Erste ReadMe
 
-##unterpunkt
-##unterpunkt2
+## unterpunkt
+## unterpunkt2
 ein sinnvoller Text
